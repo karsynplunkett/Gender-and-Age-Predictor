@@ -1,0 +1,17 @@
+channels:
+ - conda-forge
+dependencies:
+ - dlib
+ - pip
+ - python
+ - pandas
+ - pip:
+    - cmake
+    - face-recognition
+    - face-recognition-models
+    - python-dateutil
+    - streamlit
+    - Pillow
+    - pandas
+    - numpy
+    - opencv-python
