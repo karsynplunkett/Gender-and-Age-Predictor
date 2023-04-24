@@ -1,5 +1,6 @@
 name: myenv
 dependencies:
+- dlib
 - pip
 - pip:
   - numpy==1.21.6
