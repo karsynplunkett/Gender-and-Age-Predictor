@@ -1,8 +1,11 @@
 channels:
- - conda-forge
+- conda-forge
 dependencies:
- - dlib
- - numpy
- - scipy
- - opencv
- - face_recognition
+- dlib
+- numpy
+- pandas
+- scipy
+- opencv
+- face_recognition
+- tensorflow
+- Pillow
