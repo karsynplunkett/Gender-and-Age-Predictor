@@ -1,3 +1,4 @@
+dlib-binary
 numpy
 pandas
 Pillow
