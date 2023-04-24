@@ -1,5 +1,5 @@
 cmake
-dlib-binary
+dlib
 numpy
 pandas
 Pillow
